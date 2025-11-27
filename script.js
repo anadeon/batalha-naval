@@ -74,7 +74,7 @@ for (i = 0; i < cols; i++) {
 
         // Aviso se já atirou nesse local
         } else if (gameBoard[row][col] > 1) {
-        alert("Stop wasting your torpedos! You already fired at this location.");
+        alert("Pare de desperdiçar seus canhões! Você já disparou contra este local.");
         }
     }
 
